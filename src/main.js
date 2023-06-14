@@ -11,6 +11,8 @@ Vue.use(ElementUI)
 Vue.config.productionTip = false
 
 console.log(123);
+console.log(222);
+console.log(333);
 new Vue({
   router,
   store,
