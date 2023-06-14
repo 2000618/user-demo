@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pro_vue
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# testdemo
+a  project demo 
+>>>>>>> refs/remotes/origin/main
