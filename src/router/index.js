@@ -17,6 +17,10 @@ export default  new VueRouter({
         {
             path:'/test',
             component:()=>import('@/components/continue.vue')
+        },
+        {
+            path:'/count',
+            component:()=>import('@/view/test.vue')
         }
     ]
 })

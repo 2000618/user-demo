@@ -1,5 +1,7 @@
 <!--  -->
-<template><div>456</div></template>
+<template>
+    <div>456</div>
+</template>
 
 <script>
 export default {
