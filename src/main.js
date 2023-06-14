@@ -10,6 +10,7 @@ Vue.use(VueRouter)
 Vue.use(ElementUI)
 Vue.config.productionTip = false
 
+console.log(123);
 new Vue({
   router,
   store,
